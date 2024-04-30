@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cftkb")(type "KiCad")(uri "${KIPRJMOD}/cftkb.pretty")(options "")(descr ""))
+  (lib (name "My Footprints")(type "KiCad")(uri "H:/Mon Drive/Electronics/Kicad-Libraries/MY_FOOTPRINTS")(options "")(descr ""))
+)
