@@ -17885,6 +17885,7 @@
 	(symbol
 		(lib_id "mysterium-pcb-rescue:KEYSW-keyboard_parts")
 		(at 170.18 104.14 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21561,7 +21562,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board no)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005d9d3742")
 		(property "Reference" "SW64"
 			(at 44.45 82.9818 0)
@@ -22984,9 +22985,9 @@
 		(at 311.15 58.42 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005db46cb5")
 		(property "Reference" "SW46"
 			(at 311.15 52.5018 0)
@@ -23324,10 +23325,10 @@
 		(lib_id "mysterium-pcb-rescue:KEYSW-keyboard_parts")
 		(at 311.15 73.66 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-00005db4d5c5")
 		(property "Reference" "SW63"
 			(at 311.15 67.7418 0)
