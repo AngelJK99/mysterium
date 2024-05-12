@@ -17909,7 +17909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "acheron_MXH_MetalRings:MX100H"
+		(property "Footprint" "acheron_MXH_MetalRings:MX625HR"
 			(at 170.18 104.14 0)
 			(effects
 				(font
@@ -25791,7 +25791,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "acheron_MXH_MetalRings:MX100H"
+		(property "Footprint" "acheron_MXH_MetalRings:MX700HR"
 			(at 166.37 119.38 0)
 			(effects
 				(font
