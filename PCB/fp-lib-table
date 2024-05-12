@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cftkb")(type "KiCad")(uri "${KIPRJMOD}/cftkb.pretty")(options "")(descr ""))
+  (lib (name "My footprints")(type "KiCad")(uri "${KIPRJMOD}/My footprints")(options "")(descr ""))
+  (lib (name "acheron_MXH_MetalRings")(type "KiCad")(uri "${KIPRJMOD}/My footprints/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
+)
